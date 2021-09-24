@@ -1,10 +1,32 @@
-p {
+p.sub-title1 {
   color: aqua;
 }
-
+p#sub-title2 {
+  color: pink;
+}
+.company{
+  font-size: larger;
+  font-weight: bold;
+}
 h1{
   color: red;
   font-size: 50pt;
   font-weight: bold;
 
 }
+div.box1{
+  height: 100px;
+  width: 100px;
+  background-color: royalblue;
+}
+div.box2{
+  height: 100px;
+  width: 100px;
+  background-color: mediumturquoise;
+}
+  
+  div.box3{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+  }
